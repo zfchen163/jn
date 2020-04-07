@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hexo-theme-3-hexo
 ================
 3-hexo 是为 [hexo](https://github.com/tommy351/hexo) 制作的主题。三段式设计、方便。你可以点击: [我的博客](https://yelog.org/) 查看效果
@@ -60,3 +61,7 @@ git pull
  作者Peiwen Lu的jekyll主题：[3-jekyll](https://github.com/P233/3-Jekyll)主题  
  作者Yansu的[blog](http://yansu.org/)  
  作者litten的[hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)主题
+=======
+# zfchen163.github.io
+我的博客
+>>>>>>> b34f739d0a32f69796a395ecec097050b339918f

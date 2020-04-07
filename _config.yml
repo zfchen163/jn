@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 version: 1.0.1
 # 你的头像url
 avatar: /img/avatar.jpg
@@ -279,3 +280,6 @@ CDN:
   photoswipe_css: //cdn.bootcss.com/photoswipe/4.1.2/photoswipe.min.css
   photoswipe_skin_css: //cdn.bootcss.com/photoswipe/4.1.2/default-skin/default-skin.min.css
 ##############################
+=======
+theme: jekyll-theme-hacker
+>>>>>>> b34f739d0a32f69796a395ecec097050b339918f
